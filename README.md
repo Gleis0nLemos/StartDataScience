@@ -1,18 +1,10 @@
 ### Data Science: Análise e visualização de dados
+    
+#### Tópicos aprendidos baseado no conteúdo da segunda aula:
 
 ###
-    Arquivos de projeto desenvolvido baseado
-    no curso da plataforma Alura.
-    
-    Meu código está logo acima :P
-    
-#### Tópicos aprendidos baseado no conteúdo da primeira aula:
+    - Trabalhar com query;
+    - Identificar os bins; e
+    - Filtrar apenas uma coluna.
 
-###
-    - Importar pandas (biblioteca de análise de dados)
-    - Ler dados CSV;
-    - Fazer upload de arquivo para o Google Colab;
-    - Renomear colunas;
-    - Contar dados; 
-    - Melhorar a visualização das informações.
 
