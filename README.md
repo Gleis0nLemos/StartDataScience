@@ -1,19 +1,9 @@
 ### Data Science: Análise e visualização de dados
-    Curso feito na plataforma de ensino Alura :P
     
-#### Sumário das aulas:
+#### Tópicos aprendidos na ultima aula:
 
 ###
-    - Data Science: dados e visualizações;
-###
-    - Análise exploratória;
-###
-    - Variáveis:
-###
-    - Data Visualization;
-### 
-    - Continuando com visualização;
-###
-    - Dados e estatística.
-    
-    
+    - Comparar a média de filmes;
+    - Juntar arrays com o np.append();
+    - Reconhecer o que é a dispersão de dados;
+    - Compreender o que é Desvio padrão.
